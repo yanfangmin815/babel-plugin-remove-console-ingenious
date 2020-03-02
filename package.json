@@ -1,0 +1,14 @@
+{
+  "name": "babel-plugin-remove-console-ingenious",
+  "version": "1.0.0",
+  "description": "babel-plugin-remove-console-ingenious",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel-plugin-remove-console-ingenious"
+  ],
+  "author": "yanfm",
+  "license": "ISC"
+}
