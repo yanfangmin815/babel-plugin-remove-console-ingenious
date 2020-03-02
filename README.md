@@ -1,5 +1,5 @@
 ## Description 描述
->  本插件为练习使用
+>  A babel-plugin for remove console.log statement
 
 ## Install
 ```
